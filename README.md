@@ -1,5 +1,3 @@
-# data_analytics_project-python-sql
-
 # 📊 Order Data Analysis Project
 
 This project focuses on analyzing retail order data using SQL and Python to uncover key business insights. The analysis covers various aspects such as identifying top-selling products, tracking revenue trends, and understanding regional sales performance. By combining SQL queries for data extraction and Python scripts for data processing, this project demonstrates a robust approach to solving real-world business problems.
@@ -20,4 +18,4 @@ This project focuses on analyzing retail order data using SQL and Python to unco
 # 📈 Dataset
 The dataset used is sourced from Kaggle and contains retail order details such as order date, product information, sales figures, and regional data.
 
-Dataset link: https://www.kaggle.com/datasets/ankitbansal06/retail-orders
+Dataset link: [Here](https://www.kaggle.com/datasets/ankitbansal06/retail-orders)
